@@ -3,8 +3,6 @@ package com.wzz.mmall.util;
 import org.apache.commons.net.ftp.FTPClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import sun.net.ftp.impl.FtpClient;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
